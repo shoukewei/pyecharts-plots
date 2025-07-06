@@ -1,1 +1,2 @@
 ﻿# pyecharts-plots
+Pyecharts is a powerful and flexible data visualization library in Python, built on top of the JavaScript charting library ECharts. This repository contains the codes for the [Visualizing Data with Pyecharts: A Complete Tutorial with Real-World Examples](https://medium.com/@shouke.wei/visualizing-data-with-pyecharts-a-complete-tutorial-with-real-world-examples-421b548e9633) on Medium.
